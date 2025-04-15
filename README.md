@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shrihari Khatavkar</h1>
 <h3 align="center">A passionate Data Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrihari12580&label=Profile%20views&color=0e75b6&style=flat" alt="shrihari12580" /> </p>
 
 - 🌱 I’m currently learning **Python, SQL, PySpark, AWS, LINUX**
@@ -10,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shrihari khatavkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrihari khatavkar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/shrihari-khatavkar-b135562b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shrihari-khatavkar-b135562b5" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
